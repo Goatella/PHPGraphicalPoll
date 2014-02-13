@@ -1,0 +1,2 @@
+CREATE TABLE votes (first INTEGER, sec INTEGER, third INTEGER); 
+INSERT INTO votes (first, sec, third) VALUES (0,0,0) 
